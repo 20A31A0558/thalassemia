@@ -6,7 +6,7 @@ The Thalassemia Information Portal is a comprehensive online platform dedicated 
 ### This Web  Based Application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link(Github Repository URL)** - https://github.com/Sampath-Vatsavaya/thalassemia.git  <br>
+**Project Link(Github Repository URL)** - https://github.com/20A31A0558/thalassemia  <br>
 **Project Demo URL** - https://kind-glacier-07ce87900.3.azurestaticapps.net/  <br>
 **project demo video link** - https://youtu.be/8IKtZ0TWsQU
 
